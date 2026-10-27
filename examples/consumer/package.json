@@ -1,0 +1,11 @@
+{
+  "name": "flowforge-consumer-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "node custom-stage.mjs"
+  },
+  "dependencies": {
+    "flowforge": "file:./flowforge-1.0.0.tgz"
+  }
+}

@@ -2,9 +2,9 @@
 Link do Youtube: https://youtu.be/5w-TOnpq5S0
 
 # Nomes completos
-Helena Picinin de Lima
-Marco Antonio Monteiro Capote
-Raissa Queiroz da Fonseca
+Helena Picinin de Lima\
+Marco Antonio Monteiro Capote\
+Raissa Queiroz da Fonseca\
 
 # FlowForge
 

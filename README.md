@@ -1,3 +1,11 @@
+# Link do Youtube
+Link do Youtube: https://youtu.be/5w-TOnpq5S0
+
+# Nomes completos
+Helena Picinin de Lima
+Marco Antonio Monteiro Capote
+Raissa Queiroz da Fonseca
+
 # FlowForge
 
 Biblioteca TypeScript para montar e executar pipelines de processamento de registros em memória. O consumidor combina operações tipadas sem alterar o executor para cada nova operação.
